@@ -1,3 +1,7 @@
+body {
+	font-family: 'PT Serif', serif;
+}
+
 h1 {
 	font-family: 'PT Serif', serif;
 	font-weight: 900;
@@ -86,7 +90,7 @@ p {
     top: 0;
     bottom: 0;
     left: 0;
-    width: 15%;
+    width: 5%;
     font-size: 20px;
     color: #000;
     text-align: center;
@@ -118,4 +122,16 @@ p {
     background-color: rgba(0,0,0,0);
     border: 1px solid #000;
     border-radius: 10px;
+}
+
+.carousel {
+	min-height: 700px;
+	border-bottom: 1px solid #ccc;
+	border-top: 1px solid #ccc;
+	margin-top: 20px;
+}
+
+.carousel-inner {
+	margin: 0 auto;
+	width: 90%;
 }
