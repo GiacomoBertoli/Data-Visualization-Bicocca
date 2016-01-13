@@ -28,8 +28,10 @@ Nel box di destra si deve indicare:
 * lista degli strumenti utiizzati per il progetto
 * descrizione del processo di raccolta dati
 
+
 Le visualizzazioni possono essere sia statiche che interattive e possono essere realizzate con qualunque strumento.
 La grandezza ideale per le visualizzazioni è di 1200px * 600px.
+
 
 I criteri di valutazione del progetto sono i seguenti:
 * coerenza, completezza e originalità del processo di ricerca
