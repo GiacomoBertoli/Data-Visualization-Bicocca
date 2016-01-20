@@ -124,14 +124,20 @@ p {
     border-radius: 10px;
 }
 
+.carousel-indicators {
+    bottom: 10px;
+}
+
 .carousel {
-	min-height: 700px;
 	border-bottom: 1px solid #ccc;
 	border-top: 1px solid #ccc;
-	margin-top: 20px;
+	padding: 20px 0 60px;
 }
 
 .carousel-inner {
+	min-height: 700px;
+	margin-top: 20px;
+	max-width: 1200px;
 	margin: 0 auto;
-	width: 90%;
+
 }
