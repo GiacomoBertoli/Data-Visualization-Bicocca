@@ -40,8 +40,5 @@ I criteri di valutazione del progetto sono i seguenti:
 * qualità della relazione testuale
 
 
-#Slides
-https://drive.google.com/folderview?id=0B7TgENsGObg3cVZ4UXFkRGxIN1k&usp=sharing
-
 
 
